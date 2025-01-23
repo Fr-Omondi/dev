@@ -1,3 +1,3 @@
-y=6
-x=5
-print(y+x)
+y=60
+x=59
+print(y*x)
